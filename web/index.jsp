@@ -27,7 +27,7 @@
                 <form  method="post" action="">
 
                    <label for="nameCliente">Email:</label><br>
-                   <input type="email" id="nameCliente" name="nameCliente"  maxlength="16"  style="width: 270px;" ><br/><br/>
+                   <input type="email" id="nameCliente" name="nameCliente"  maxlength="16"  style="width: 280px;" ><br/><br/>
 
                    <label for="senha">Senha:</label><br>
                    <input type="password" name="senha"  id="senha" maxlength="16" style="width: 180px;" > 
