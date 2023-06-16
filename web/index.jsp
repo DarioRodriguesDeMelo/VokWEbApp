@@ -27,12 +27,12 @@
                 <form  method="post" action="">
 
                    <label for="nameCliente">Email:</label><br>
-                   <input type="email" id="nameCliente" name="nameCliente"  maxlength="16"  style="width: 220px;" ><br/><br/>
+                   <input type="email" id="nameCliente" name="nameCliente"  maxlength="16"  style="width: 270px;" ><br/><br/>
 
                    <label for="senha">Senha:</label><br>
-                   <input type="password" name="senha"  id="senha" maxlength="16"  > 
+                   <input type="password" name="senha"  id="senha" maxlength="16" style="width: 180px;" > 
 
-                   <button type="button" onclick="mostrarsenha()" name="btshowsenha"  >mostrar</button> <br/> <br/>
+                   <button type="button" onclick="mostrarsenha()"  name="btshowsenha"  >mostrar</button> <br/> <br/>
 
                    <input type="submit" value="entrar">
                 </form>

@@ -46,24 +46,8 @@ input {
        width: 40%;
        
       }  
-   #senha{
-       display: inline;
-   }
-   #cad
-     {
-       position: absolute;
-       /*text-align: right;*/
-       top: 0;   
-       right: 8px; 
-      }
- label{  
-     
-  /*width: 50px;*/
-  /*display: block;*/
- 
-  
-  
-  }
+   
+
   
  
   .centerForm{
