@@ -27,19 +27,19 @@
                 <form  method="post" action="">
 
                    <label for="nameCliente">Email:</label><br>
-                   <input type="email" id="nameCliente" name="nameCliente"  maxlength="16"  style="width: 280px;" ><br/><br/>
+                   <input type="email" id="nameCliente" name="nameCliente"  maxlength="16"  style="width: 275px;" ><br/><br/>
 
                    <label for="senha">Senha:</label><br>
-                   <input type="password" name="senha"  id="senha" maxlength="16" style="width: 180px;" > 
+                   <input type="password" name="senha"  id="senha" maxlength="16" style="width: 220px;" > 
 
                    <button type="button" onclick="mostrarsenha()"  name="btshowsenha"  >mostrar</button> <br/> <br/>
 
-                   <input type="submit" value="entrar">
+                   <input type="button" value="entrar" style="margin-left:auto;margin-right:auto; display:block;">
                 </form>
                
-               Esqueceu da senha ?
-           </div> 
-            
+               
+           </div> <br>
+            Esqueceu a senha ?
            
        </div> 
     </body>
