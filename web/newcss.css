@@ -31,12 +31,7 @@ body
     {
      background-color: grey;
     }
-button 
-   {
-      padding: 10px 0px;
-     /*color: black ;*/
-     /*padding: 60px;*/
-   } 
+
    
 input {
        border-radius: 3px;
