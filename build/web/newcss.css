@@ -1,0 +1,56 @@
+/*
+    Created on : 1 de nov. de 2021, 20:49:41
+/*
+    Created on : 1 de nov. de 2021, 20:49:41
+    Author     : Dario
+*/
+
+.containerlogin { 
+    
+    background-color: whitesmoke; 
+    border-radius: 10px;
+    width: 500px;    
+    height: 500px;
+    position: absolute; 
+    top: 0;
+    bottom: 0;
+    right: 0; 
+    left: 0;   
+    /*margin: auto;*/
+    margin: auto;  
+    
+    /*margin-right: auto; */ 
+    text-align: center;
+   
+    
+}
+  
+  
+
+body 
+    {
+     background-color: grey;
+    }
+
+   
+input {
+       border-radius: 3px;
+       /*display: inline-block;*/
+       margin: 0 28;
+       padding: 10px ;
+       width: 40%;
+       
+      }  
+   
+
+  
+ 
+  .centerForm{
+  text-align: left;   
+  margin: auto;
+  border-radius: 10px;
+  width: 60%;
+  border: 3px solid #73AD21;
+  padding: 10px;
+  }     
+  
