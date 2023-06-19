@@ -30,7 +30,7 @@
                    <input type="email" id="nameCliente" name="nameCliente"  maxlength="16"  style="width: 275px;" ><br/><br/>
 
                    <label for="senha">Senha:</label><br>
-                   <input type="password" name="senha"  id="senha" maxlength="16" style="width: 221px;" > 
+                   <input type="password" name="senha"  id="senha" maxlength="16" style="width: 210px;" > 
 
                    <button type="button" onclick="mostrarsenha()"  name="btshowsenha"  >mostrar</button> <br/> <br/>
 
@@ -39,7 +39,9 @@
                
                
            </div> <br>
-            Esqueceu a senha ?
+            
+                <a href="./Pages/cadastro.jsp">Esqueceu a senha ?</a>
+                    
            
        </div> 
     </body>
