@@ -9,8 +9,8 @@
     
     background-color: whitesmoke; 
     border-radius: 10px;
-    width: 500px;    
-    height: 500px;
+    width: 500px;    /*largura*/
+    height: 500px;  /*altura*/
     position: absolute; 
     top: 0;
     bottom: 0;

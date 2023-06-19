@@ -40,8 +40,8 @@
                
            </div> <br>
             
-                <a href="./Pages/cadastro.jsp">Esqueceu a senha ?</a>
-                    
+           <a href="./Pages/cadastro.jsp">Esqueceu a senha ?</a><br> <!-- comment -->
+                <a href="./Pages/cadastro.jsp">Não tem cadastro ?</a>
            
        </div> 
     </body>
